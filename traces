@@ -1,0 +1,46 @@
+<main class="container">
+  <div class="title">ŞAKİR BULAT</div>
+  <div class="photo"><img src="https://user-images.githubusercontent.com/82091091/113851752-7ea36400-97a4-11eb-8a02-d4b799d79530.jpg" alt="Şakir Bulat"> <figcaption> <i> Şakir Bulat, 1965 </i> </figcaption> </img> </div>
+
+  <div class="story">
+     <article class="a1"> 
+      <h4> In the middle of a forest </h4>
+      <p>He was born in a wooden house in the middle of a forest. There were a few families around engaged in blacksmithing as his family did. His family was gradually getting poorer as their products were required less and prices got cheaper. He was a child yet and felt safe. </p>
+      </article>
+
+      <article class="a2"> 
+      <h4> Time to face a revolutionary change </h4>
+      <p>He grew up knowing little about the world. The more he grew, the more he realized that he was in poverty. In the midst of the metallurgical industry revolution, blacksmithing had to disappear. One would think that this was all but it was not.</p>
+      </article>
+
+      <article class="a3"> 
+      <h4> World War I and Thugs </h4>
+      <p>As if it wasn't enough, World War I broke out. Men had to leave their homes and join the war leaving their loved ones -  parents, wives, children - in that poverty and, moreover, at the mercy of the thugs. There were numerous dramatic wars in World War I with no written history and he had to face one of them.</p>
+        
+      <p> His father as well as his father's peers did not come back from the war. Thus, his family had lost mobility and that made him stay with them, there in the forest... </p>
+
+      <p>He, like his peers, chose not to leave his grandparents, mother, brothers, and sisters. His only option was to turn the forest into a hazelnut garden, a cornfield, and a vegetable garden. The immigrant blacksmith family had to turn  into a settled family dealing with agriculture.</p>
+      </article>
+    
+      <article class="a4"> 
+      <h4> Life </h4>
+      <p> He was a 14-year-old child when were married off. His family were to grow, soon 4 girls and 1 boy would join. He and his wife were to build a 3 room house on a piece of land cleaned up from the forest and stones. Kept fighting for the children!</p>
+
+      <p>He was still in the middle of the forest. He had to work very hard for the future while poorly feeding himself, wife  and his kids. Nevertheless, his children grew up and got married one by one with the grooms and brides from neighboring families.</p> 
+
+      <p>Hazelnut garden had not grown yet. It was to take years to get some hazelnut yield. There was no school around. He did not have the option to provide school education for his daughters.  For the best future for his son, he managed to buy a 70 sqm land in a joint venture with his eldest son-in-law and built twin two store houses in town center so that his son can go to school.</p>        
+      </article>
+
+      <article class="a5"> 
+      <h4> Soul </h4>
+      <p> He had a rare good and honest soul which was full of love and belief in God.  He prayed to God and tried to feed his soul with knowledge of God. He was kind, just, and nice to his family and to others. He loved his horse and took care of the horse himself.</p> 
+      <p>And his life ended in a traffic accident while he was riding his horse from a cornfield to the tiny house he built with a cap of yogurt in his hand for his little son living and studying there. </p>
+      </article>
+  </div> 
+
+  <footer class="footer">
+    <p><strong>Grandfather</strong>, we will always remember you with gratitude.</p>
+    <p> May Allah rest your soul in heaven! </p> 
+    <p><strong> <a href="/" target="blank">Bulat Ailesi </strong> </p>
+  </footer>
+</main>
